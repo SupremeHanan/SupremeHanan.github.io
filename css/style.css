@@ -8916,8 +8916,8 @@ textarea.form-control {
   margin-bottom: 5px; }
 
 .heading-section h2 {
-  font-size: 14vw;
-  font-weight: 900;
+  font-size: 6vw;
+  font-weight: 700;
   line-height: 1.0;
   font-family: "Poppins", Arial, sans-serif;
   text-transform: uppercase;
@@ -10108,4 +10108,22 @@ textarea.form-control {
   margin-bottom: 15px;
   line-height: 50px;
   text-transform: uppercase;
+}
+
+.bg-html{
+  background-color: #F14A29 !important;
+}
+
+
+
+.bg-css{
+  background-color: #2465F1 !important;
+}
+
+.bg-php{
+  background-color: #6878B4 !important;
+}
+
+.bg-vue{
+  background-color: #3FB984 !important;
 }
